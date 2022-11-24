@@ -5,9 +5,9 @@ div {
 }
 
 .fiest {
-    width: 450px;
+    width: 350px;
     height: auto;
-    margin-left: 200px;
+    margin-left: 255px;
     margin-right: auto;
 }
 
@@ -17,6 +17,10 @@ div {
 
 .mf {
     color: brown;
+}
+
+.ahole {
+    color: purple;
 }
 
 .urmom {
