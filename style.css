@@ -4,6 +4,13 @@ div {
     text-align: center;
 }
 
-.amuku {
-    color: blue;
+.fiest {
+    width: 450px;
+    height: auto;
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.rodent {
+    text-align: center;
 }
